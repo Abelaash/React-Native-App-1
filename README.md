@@ -2,6 +2,10 @@
 
 ##### I created this react-native app using the **expo_cli** interface using IOS/Android emulators.
 
+##### Contributors
++ Abelaash Giritharan
++ Mark Sherriff
+
 ## Table of Contents
 + App Summary
 + Get Started
