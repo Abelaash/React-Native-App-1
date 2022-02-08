@@ -21,6 +21,7 @@ const GoalInput = props => {
           style={styles.input}
           onChangeText={goalInputHandler}
           value={enteredGoal}
+          autoFocus={true}
         />
         <View style={styles.buttonContainer}>
           <View style={styles.button}>
