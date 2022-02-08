@@ -66,6 +66,7 @@ $ npm start
 + Nodejs
 + React
 + react-native
++ expo-cli
 
 ## Show your support
 Give a ⭐if this project helped you in the future!
